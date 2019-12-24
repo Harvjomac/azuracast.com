@@ -16,7 +16,7 @@ AzuraCast is flexible and works on a broad number of environments, from inexpens
 We've partnered with our friends at [DigitalOcean](https://m.do.co/c/21612b90440f) to create a 1-Click installer that sets up and configures a droplet with AzuraCast's recommended Docker installation configured and ready to go.
 
 Learn more about the 1-Click installer and create a droplet today [on the DigitalOcean Marketplace](https://marketplace.digitalocean.com/apps/azuracast).
-
+m
 ### Linode
 
 If you are hosting your installation with Linode, you can take advantage of community-maintained StackScripts to install AzuraCast.
